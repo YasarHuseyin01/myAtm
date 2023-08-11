@@ -86,6 +86,9 @@ public class AtmClass {
             case 4:
                 cikis();
                 break;
+            default:
+                System.out.println("yanlis bir deger girdiniz");
+                devam();
         }
     }
 
